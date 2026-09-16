@@ -7,4 +7,7 @@ READ ME Update
 
 [![Releases](https://img.shields.io/github/release/aungyekhant333-crypto/devops/all.svg?style=flat-square)](https://github.com/aungyekhant333-crypto/devops/releases)
 
+[![Master Build Status](https://img.shields.io/badge/Master%20Build%20Status-build%20passing-brightgreen)]((https://github.com/aungyekhant333-crypto/devops/main.yml/master))
+[![Develop Build Status](https://img.shields.io/badge/Develop%20Build%20Status-build%20passing-brightgreen)]((https://github.com/aungyekhant333-crypto/devops/main.yml/develop))
+
 
